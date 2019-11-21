@@ -1,23 +1,35 @@
-- title: Adobe Photoshop
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 75%
-
-- title: Web Design
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 68% 
-
-- title: Back-End Development
+- title: Software Architecture
   desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
   progress: 90%
 
-- title: Javascript
+- title: Microservice Architecture
+  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  progress: 75%
+
+- title: Java / Spring Programming Language
+  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  progress: 75%
+
+- title: Database / Liquibase
+  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  progress: 68% 
+
+- title: JSF / Primefaces
   desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
   progress: 55%
 
-- title: HTML5 And CSS3
+- title: React / Angular
   desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
   progress: 88% 
 
-- title: Adobe Illustrator
+- title: Maven / Git
+  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  progress: 20%
+
+- title: Docker / Kubernetes
+  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  progress: 20%
+
+- title: Jenkins/Travis
   desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
   progress: 20%
