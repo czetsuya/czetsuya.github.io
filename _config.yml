@@ -18,7 +18,7 @@ title: czetsuya
 email: czetsuya@gmail.com
 description: "czetsuya-tech"
 keywords: "programming, technology, software development, system architecture"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: " " # the subpath of your site, e.g. /blog
 url: "https://czetsuya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: czetsuya
 github_username:  czetsuya
