@@ -1,9 +1,41 @@
 - year: Jun 2015 - Jun 2019
-  logo: assets/images/facebook.png
+  logo: assets/images/opencell.png
   url: https://opencellsoft.com
   desc: Java Architect / Team Lead
 
 - year: Feb 2011 - Jun 2015
-  logo: assets/images/facebook.png
+  logo: assets/images/manaty.png
   url: https://manaty.net
   desc: Java Architect / Team Lead
+
+- year: Apr 2012 - Mar 2013
+  logo: assets/images/sido.png
+  url: https://sido.net
+  desc: Senior Java Developer
+
+- year: Jun 2010 - Mar 2011
+  logo: assets/images/aam.png
+  url: https://aamenterprises.net
+  desc: Project Manager
+
+- year: Jul 2009 - Jun 2010
+  logo: assets/images/irri.png
+  url: https://irri.org
+  desc: Senior Java Developer
+
+- year: Dec 2007 - Jul 2009
+  logo: assets/images/escience.png
+  url: https://www.electronicscience.com
+  desc: Technical Lead
+
+  - year: Dec 2006 2012 - Dec 2007
+  logo: assets/images/blueeyeddragon.png
+  url: https://
+  desc: Team Lead
+
+  - year: May 2006 - Dec 2006
+  logo: assets/images/aam.png
+  url: https://aamenterprises.net
+  desc: Software Developer
+
+  

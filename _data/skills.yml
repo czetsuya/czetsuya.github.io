@@ -1,35 +1,35 @@
 - title: Software Architecture
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  desc: Later years of my professional career where mostly spent on system architecture, backend and api development.
   progress: 90%
 
 - title: Microservice Architecture
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 75%
+  desc: I have created an open source catalog and sellout management system available on Github.
+  progress: 80%
 
 - title: Java / Spring Programming Language
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 75%
+  desc: I have been a long time Java developer who specialized on backend development. I'm both familiar with JavaEE and Spring technology.
+  progress: 90%
 
 - title: Database / Liquibase
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 68% 
+  desc: Database modelling, PostgreSQL, MySQL, MSSQL, Oracle, Neo4j, MongoDB, Cassandra
+  progress: 90%
 
 - title: JSF / Primefaces
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 55%
+  desc: I have a long and good experience developing custom components.
+  progress: 100%
 
 - title: React / Angular
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 88% 
+  desc: I have been involved with projecs that use both Angular and React on frontend.
+  progress: 75% 
 
 - title: Maven / Git
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 20%
+  desc: I normally use maven as dependency manager and git as version control system to track code changes.
+  progress: 100%
 
 - title: Docker / Kubernetes
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 20%
+  desc: Although I'm not a devops guy, I have a good experience deploying with docker and kubernetes technology
+  progress: 75%
 
 - title: Jenkins/Travis
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 20%
+  desc: Jenkins and Travis are my technology of choice to manage the automatic build and deployment.
+  progress: 75%
