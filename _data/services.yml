@@ -1,15 +1,15 @@
 - title: Software / System Architecture
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-brush.png
+  desc: Defining the principle, standards and road-map to guide the development, operation and management of the software and technology.
+  icon: assets/images/services-icon-coding.png
 
 - title: Custom Software Development
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-brush.png
+  desc: Full-cycle software development leveraging the Java/Spring technology stack.
+  icon: assets/images/services-icon-java.png
 
 - title: API Development / Integration
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-brush.png
+  desc: Cut down development time and costs by integrating readily available third-party API platforms.
+  icon: assets/images/services-icon-layer.png
 
 - title: Team Development and Management
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-brush.png
+  desc: Recruit and retain local talents from the Philippines
+  icon: assets/images/services-icon-pen.png
