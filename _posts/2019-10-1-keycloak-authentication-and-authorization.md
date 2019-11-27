@@ -8,4 +8,4 @@ post_id: 2
 ---
 This blog entry contains a series of articles that describes the usage of Keycloak to secure an application.
 
-<a href="https://czetsuya-tech.blogspot.com/2019/10/keycloak-authentication-and.html">&lt;Read the complete article</a>
+<a href="https://czetsuya-tech.blogspot.com/2019/10/keycloak-authentication-and.html">&gt;Read the complete article</a>
