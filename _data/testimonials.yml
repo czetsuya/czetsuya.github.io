@@ -1,13 +1,13 @@
 - name: Carlo B
   designation: Android Developer
-  image: assets/images/author-img.png
+  image: assets/images/author-hover.png
   url: 
   rating: 100%
-  desc: Very Awesome
+  desc: Good to work with.
 
 - name: Tony A
   designation: Senior Java Developer
-  image: assets/images/author-img.png
+  image: assets/images/author-hover.png
   url: 
   rating: 100%
-  desc: Very Awesome
+  desc: Professional team mate.
