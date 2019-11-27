@@ -3,7 +3,7 @@ layout: post
 title: "Keycloak Authentication and Authorization"
 date:  2019-10-1 17:00
 categories: sso
-image: /assets/images/keycloak-authentication-authorization.jpg
+image: /assets/images/blog-keycloak-authentication-authorization.png
 post_id: 2
 ---
 This blog entry contains a series of articles that describes the usage of Keycloak to secure an application.

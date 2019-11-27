@@ -3,7 +3,7 @@ layout: post
 title: "Catalog and Sellout Management System"
 date:  2019-6-1 17:00
 categories: microservice
-image: /assets/images/catalog-and-sellout.jpg
+image: /assets/images/blog-terawarehouse.png
 post_id: 1
 ---
 A catalog and sales order management system is commonly used by companies to manage their catalog and capture their sales data into a centralized database so that a real-time accurate report can be generated instantly. This application can trigger notification such as low on stock which allows the company to act as needed.
