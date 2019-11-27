@@ -14,4 +14,4 @@ Once we are done with the RESTful web services, we will create a simple front en
 
 And finally, we will dockerize the services and managed using Kubernetes. We will also attempt to deploy the application on Amazon Web Services using a docker-compose and Amazon EKS.
 
-<a href="https://czetsuya-tech.blogspot.com/2019/06/catalog-and-sellout-management-system.html">Read more</a>
+<a href="https://czetsuya-tech.blogspot.com/2019/06/catalog-and-sellout-management-system.html">&lt;Read the complete article</a>
