@@ -44,25 +44,19 @@
                         <div class="col-md-8 col-sm-12">
                             <div class="contact-form text-left">
                                 <h3><span>hello</span>..... you can send your message from here.</h3>
-                                <form action="https://submit.jotform.me/submit/93307338925463/">
-                                    <input type="hidden" name="formID" value="93307338925463" />
-                                    <input type="hidden" id="JWTContainer" value="" />
-                                    <input type="hidden" id="cardinalOrderNumber" value="" />
+                                <form action="https://formspree.io/xleddang" method="POST">
                                     <div class="form-row">
                                         <div class="form-group first-name col-md-12">
-                                            <input type="text" class="form-control" placeholder="First name" required>
+                                            <input type="text" name="name" class="form-control" placeholder="First name" required>
                                         </div>
                                     </div>
                                     <div class="form-row">
-                                        <div class="form-group url col-md-6">
-                                            <input type="text" class="form-control" placeholder="Website">
-                                        </div>
                                         <div class="form-group email col-md-6">
-                                            <input type="email" class="form-control" placeholder="Email" required>
+                                            <input type="email" name="_replyto" class="form-control" placeholder="Email" required>
                                         </div>
                                     </div>
                                     <div class="form-group comment">
-                                        <textarea placeholder="write your comment" id="textarea" rows="8"></textarea>
+                                        <textarea name="message" placeholder="write your comment" id="textarea" rows="8"></textarea>
                                     </div>
                                     <button type="submit" class="hover-rpl btn btn-primary">Send Message</button>
                                 </form>
