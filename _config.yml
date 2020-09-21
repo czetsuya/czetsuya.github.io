@@ -27,9 +27,9 @@ facebook_url: 'http://facebook.com/czetsuya'
 twitter_url: 'http://twitter.com/czetsuya'
 github_url: 'http://github.com/czetsuya'
 youtube_url: 'https://www.youtube.com/channel/UCohlQvNpYzRzPWZTX5mBSsg'
-web_url : http://czetsuya-tech.blogspot.com
-facebook_page_url : https://www.facebook.com/czetsuyatech
-discord_url : https://discord.gg/uU8wqB
+web_url : 'http://czetsuya-tech.blogspot.com'
+facebook_page_url : 'https://www.facebook.com/czetsuyatech'
+discord_url : 'https://discord.gg/uU8wqB'
 
 # Build settings
 markdown: kramdown
