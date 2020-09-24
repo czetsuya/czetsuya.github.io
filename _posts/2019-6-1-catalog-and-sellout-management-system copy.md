@@ -3,7 +3,7 @@ layout: post
 title: "Learn Microservice Architecture with Spring Boot"
 date:  2019-6-1 17:00
 categories: microservice
-image: /assets/images/blog-learn-microservice-with-spring.png
+image: /assets/images/blog-learn-microservice-with-spring2.png
 post_id: 1
 ---
 A catalog and sales order management system is commonly used by companies to manage their catalog and capture their sales data into a centralized database so that a real-time accurate report can be generated instantly. This application can trigger notification such as low on stock which allows the company to act as needed.
@@ -14,4 +14,4 @@ Once we are done with the RESTful web services, we will create a simple front en
 
 And finally, we will dockerize the services and managed using Kubernetes. We will also attempt to deploy the application on Amazon Web Services using a docker-compose and Amazon EKS.
 
-<a href="https://czetsuya-tech.blogspot.com/2019/06/catalog-and-sellout-management-system.html">&gt;Read the complete article</a>
+<a href="https://czetsuya-tech.blogspot.com/2019/06/learn-microservice-with-spring-cloud.html">&gt;Read the complete article</a>
