@@ -30,6 +30,10 @@
   desc: Although I'm not a devops guy, I have a good experience deploying with docker and kubernetes technology
   progress: 75%
 
-- title: Jenkins/Travis
-  desc: Jenkins and Travis are my technology of choice to manage the automatic build and deployment.
+- title: Jenkins / Travis / GitLab / Github Actions
+  desc: Are my technology of choice to manage the automatic build and deployment.
   progress: 75%
+
+- title: AWS Services
+  desc: I prefer AWS Services for my cloud services needs like identity provider, server and database hosting and more.
+  progress: 60%
