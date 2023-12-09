@@ -1,39 +1,20 @@
-- title: Software Architecture
-  desc: Later years of my professional career where mostly spent on system architecture, backend and api development.
-  progress: 90%
+- title: Software / Microservice Architecture
+  desc: I have hands-on experience in event-driven and domain-driven architecture, along with a strong proficiency in API-first development.
 
-- title: Microservice Architecture
-  desc: I have created an open source catalog and sellout management system available on Github.
-  progress: 80%
+- title: Programming Languages
+  desc: Java, Spring Boot, Quarkus
 
-- title: Java / Spring Programming Language
-  desc: I have been a long time Java developer who specialized on backend development. I'm both experienced with JavaEE and Spring technology.
-  progress: 90%
+- title: Database
+  desc: PostgreSQL, MySQL, MSSQL, Oracle, Neo4j, MongoDB, Cassandra, Liquibase, Flyway
 
-- title: Database / Liquibase
-  desc: Database modelling, PostgreSQL, MySQL, MSSQL, Oracle, Neo4j, MongoDB, Cassandra
-  progress: 90%
+- title: Frontends
+  desc: JSF, Primefaces, React
 
-- title: JSF / Primefaces
-  desc: I have a long and good experience developing custom components.
-  progress: 100%
+- title: Developer Tools
+  desc: Maven, Git
 
-- title: React / Angular
-  desc: I have been involved with projects that use both Angular and React on frontend.
-  progress: 75% 
+- title: DevOps
+  desc: Docker, Jenkins, Travis, GitLab, Github Actions, Kubernetes, TerraGrunt
 
-- title: Maven / Git
-  desc: I normally use maven as dependency manager and git as version control system to track code changes.
-  progress: 100%
-
-- title: Docker / Kubernetes
-  desc: Although I'm not a devops guy, I have a good experience deploying with docker and kubernetes technology
-  progress: 75%
-
-- title: Jenkins / Travis / GitLab / Github Actions
-  desc: Are my technology of choice to manage the automatic build and deployment.
-  progress: 75%
-
-- title: AWS Services
-  desc: I prefer AWS Services for my cloud services needs like identity provider, server and database hosting and more.
-  progress: 60%
+- title: Cloud
+  desc: AWS
