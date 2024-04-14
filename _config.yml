@@ -16,7 +16,7 @@
 
 title: czetsuya
 email: czetsuya@gmail.com
-description: "czetsuya-tech"
+description: "Czetsuya Tech"
 keywords: "programming, technology, software development, system architecture"
 baseurl: " " # the subpath of your site, e.g. /blog
 url: "https://czetsuya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -27,7 +27,7 @@ facebook_url: 'http://facebook.com/czetsuya'
 twitter_url: 'http://twitter.com/czetsuya'
 github_url: 'http://github.com/czetsuya'
 youtube_url: 'https://www.youtube.com/channel/UCohlQvNpYzRzPWZTX5mBSsg'
-web_url : 'http://czetsuya-tech.blogspot.com'
+web_url : 'https://www.czetsuyatech.com'
 facebook_page_url : 'https://www.facebook.com/czetsuyatech'
 discord_url : 'https://discord.gg/uU8wqB'
 
